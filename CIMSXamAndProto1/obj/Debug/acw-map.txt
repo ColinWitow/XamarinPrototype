@@ -1,0 +1,4 @@
+CIMSXamAndProto1.MainActivity, CIMSXamAndProto1;md50861b21dae83dabe03c696258505e42c.MainActivity
+CIMSXamAndProto1.MainActivity, CIMSXamAndProto1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50861b21dae83dabe03c696258505e42c.MainActivity
+CIMSXamAndProto1.MainActivity;md50861b21dae83dabe03c696258505e42c.MainActivity
+cimsxamandproto1.MainActivity;md50861b21dae83dabe03c696258505e42c.MainActivity

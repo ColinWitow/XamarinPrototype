@@ -1,0 +1,2 @@
+android.app.Application
+CIMSXamAndProto1.CIMSXamAndProto1

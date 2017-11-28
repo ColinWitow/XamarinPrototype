@@ -1,0 +1,6 @@
+C:\Users\colin.witow\documents\visual studio 2017\Projects\CIMSXamProto1\CoursesLibrary\bin\Debug\CoursesLibrary.dll
+C:\Users\colin.witow\documents\visual studio 2017\Projects\CIMSXamProto1\CoursesLibrary\bin\Debug\CoursesLibrary.pdb
+C:\Users\colin.witow\documents\visual studio 2017\Projects\CIMSXamProto1\CoursesLibrary\obj\Debug\CoursesLibrary.dll
+C:\Users\colin.witow\documents\visual studio 2017\Projects\CIMSXamProto1\CoursesLibrary\obj\Debug\CoursesLibrary.pdb
+C:\Users\colin.witow\documents\visual studio 2017\Projects\CIMSXamProto1\CoursesLibrary\obj\Debug\CoursesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\colin.witow\Documents\Visual Studio 2017\Projects\CIMSXamProto1\CoursesLibrary\obj\Debug\CoursesLibrary.csproj.CoreCompileInputs.cache
